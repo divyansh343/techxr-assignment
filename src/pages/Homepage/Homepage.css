@@ -1,0 +1,30 @@
+.section{
+    height: 80vh;
+}
+
+.headline{
+    font-size: xx-large;
+}
+
+
+.joinform {
+    padding: 8px;
+    box-shadow: rgba(27, 25, 25, 0.35) 0px 5px 15px;
+}
+
+.joinform .form-control{
+    margin-top: 8px;
+    margin-bottom: 8px;
+
+}
+
+.section-heading {
+    text-align: center;
+}
+
+.section-tag {
+    justify-content: center;
+}
+
+
+

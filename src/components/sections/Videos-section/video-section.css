@@ -1,0 +1,16 @@
+.video-layout {
+    width: 85vw;
+    height: 70vh;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: 1fr  1fr 1fr;
+    grid-gap: 20px;
+    margin-bottom: 15px;
+  }
+  
+
+  .video-layout :hover{
+    background-color: #ffb6b6;
+    box-shadow: #ffb6b6 0px 0px 0px 3px;
+  }
+  
