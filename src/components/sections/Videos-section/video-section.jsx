@@ -12,7 +12,7 @@ const VideoSection = ({ videos }) => {
 
       <div className='video-layout mb-4'>
         {videos
-          .filter((video, idx) => idx < 31)
+          .filter((video, idx) => idx < 3)
           .map(({ id, ...otherProps }) => (
             <Video key={id} {...otherProps} />
           ))}
